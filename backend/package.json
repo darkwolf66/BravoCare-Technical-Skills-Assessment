@@ -1,0 +1,18 @@
+{
+  "author": "William Moraes (darkwolf66) <will.moraes.96@gmail.com>",
+  "name": "bravocare-frontend",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.13.3",
+    "moment": "^2.29.4",
+    "pg": "^8.8.0"
+  },
+  "scripts": {
+    "test": "jest",
+    "nodemon": "nodemon app.js",
+    "start": "node app.js"
+  },
+  "devDependencies": {
+    "jest": "^29.3.1"
+  }
+}
